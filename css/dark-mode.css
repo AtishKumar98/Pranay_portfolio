@@ -1,0 +1,61 @@
+/* Dark Mode Custom */
+[data-theme="dark"] {
+  background-color: #eee !important;
+  color: #111;
+}
+
+[data-theme="dark"] .navbar {
+  background-color: #eee !important;
+}
+[data-theme="dark"] .nav-link {
+  color: #111 !important;
+}
+[data-theme="dark"] .nav-brand {
+  color: #111 !important;
+}
+
+[data-theme="dark"] .checkbox-label {
+  background-color: #111;
+}
+[data-theme="dark"] .checkbox-label .ball {
+  background-color: #eee;
+}
+
+[data-theme="dark"] .navbar-toggler {
+  border: 1px solid #111;
+}
+[data-theme="dark"] .navbar-toggler-icon {
+  filter: invert(0);
+}
+[data-theme="dark"] .font-awe {
+  color: #111 !important;
+}
+[data-theme="dark"] .font-awe {
+  color: #111 !important;
+}
+[data-theme="dark"] .work-btn {
+  border: 4px #111 solid;
+  color: #111 !important;
+  width: 300px;
+  height: 65px;
+  letter-spacing: 1.5px;
+}
+[data-theme="dark"] #intro:before {
+  border-bottom: 5px solid #111;
+}
+
+[data-theme="dark"] .line-block {
+  background-color: #111 !important;
+  min-width: 150px;
+  min-height: 2px;
+  max-height: 2px;
+  margin-top: 25px;
+  margin-right: 20px;
+}
+
+[data-theme="dark"] .work-btn-cs {
+  border: 4px #111 solid;
+  width: 250px;
+  height: 65px;
+  letter-spacing: 1.5px;
+}
