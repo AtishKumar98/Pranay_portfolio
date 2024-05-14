@@ -2,6 +2,13 @@
   .nav-link {
     padding-left: 0px !important;
   }
+  .tiss_textual_data{
+   padding: 5%;
+    flex-direction: column;
+  }
+  .scroll-element{
+    margin-top: 5%;
+  }
   .dark-mode-btn {
     position: absolute;
     top: 23px;
@@ -38,11 +45,15 @@
   .headline-text {
     font-size: 1.5rem !important;
   }
+  .survey{
+    flex-direction: column-reverse ;
+  }
   .breath {
     margin: 75px auto !important;
   }
   #projects {
-    margin-top: 0px !important;
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
   }
   .role {
     font-size: 1.4rem !important;
